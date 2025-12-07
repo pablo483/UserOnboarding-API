@@ -351,5 +351,4 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 ---
 
-**Note:** This is a demo project for user verification through email. Make sure to configure all properties correctly before deploying to production.
 
